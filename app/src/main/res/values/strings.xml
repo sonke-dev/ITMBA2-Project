@@ -1,0 +1,46 @@
+<resources>
+<!--    Question 1 strings-->
+    <string name="app_name">mySummertive</string>
+    <string name="app_title">Vossie Transport</string>
+    <string name="welcome_message">Eduvos Transport Calculator for students and staff</string>
+    <string name="start_calculation_button">Start Calculation</string>
+    <string name="listen_to_me_button">Listen To Me</string>
+    <string name="exit_button">Exit</string>
+
+<!--    QUESTION 2 strings-->
+
+    <string name="heading">Information Page</string>
+    <string name="mode_of_transport">Mode Of Transport</string>
+    <string name="distance_travelled">Distance Travelled Per Day (km)</string>
+    <string name="cost_per_kilometre">Cost Per Kilometre</string>
+    <string name="mode_transport_hint">Public/Private</string>
+    <string name="distance_travelled_hint">Enter distance in km</string>
+    <string name="cost_kilometre_hint">Cost in Rands</string>
+    <string name="travel_days">Travel Days</string>
+    
+    
+    <string-array name="transport_type">
+    <item>Private Vehicle</item>
+        <item>Taxi</item>
+        <item>Bus</item>
+        <item>Train</item>
+        <item>Motorcycle</item>
+    </string-array>
+<string name="calculate_and_save">Calculate and Save</string>
+<string name="clear">Clear</string>
+
+
+<!--QUESTION 3 strings-->
+    <string name="results_heading">Results</string>
+    <string name="result_mode_of_transport">Mode of Transport: </string>
+    <string name="result_daily_transport_cost">Daily Transport Cost: </string>
+    <string name="result_monthly_transport_cost">Monthly Transport Cost: </string>
+    <string name="result_monthly_distance_travelled">Monthly Distance Travelled: </string>
+    <string name="result_transport_cost_category">Transport Cost Category: </string>
+    <string name="result_recommendation">Recommendation: </string>
+    <string name="result_calculate_again">Calculate Again</string>
+
+<!--    QUESTION 4 strings-->
+    <string name="splash_app_name">Vossie Transport</string>
+
+</resources>
